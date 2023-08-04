@@ -1,5 +1,3 @@
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64cd1c230d755ccbebdaf969?variant=dark)](https://roadmap.sh)
-
 ### Howdy, I am Flagrare 🔥
 
 Nothing connects us more than stories. Here is mine.
@@ -12,6 +10,8 @@ Nothing connects us more than stories. Here is mine.
 ✒ 'Stories have no beginning and no end, only doors through which one may enter them.' 火 ◉
 
 <> Every hero has a code. </>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64cd1c230d755ccbebdaf969?variant=dark)](https://roadmap.sh)
 <!--
 **Flagrare/flagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
