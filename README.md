@@ -9,7 +9,7 @@ Nothing connects us more than stories. Here is mine.
 - 🖥️ Fullstack Software Engineer (React.JS + Kotlin SpringBoot);
 - 📈 Specialist in data-driven apps;
 
-✒ A story has no beginning or end, only entrance doors. 火 ◉
+✒ 'Stories have no beginning and no end, only doors through which one may enter them.' 火 ◉
 
 <> Every hero has a code. </>
 <!--
