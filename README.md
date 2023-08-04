@@ -4,10 +4,10 @@
 
 Nothing connects us more than stories. Here is mine.
 
-- 🎮 Working on knowledge to be a Game Developer
-- 🖥️ Fullstack Software Engineer (React.JS + Kotlin SpringBoot)
-- 📚 Writing and forging new worlds is part of my soul. 
-
+- 🎮 Working on knowledge to be a Game Developer;
+- 📚 Writing and forging new worlds is part of my soul; 
+- 🖥️ Fullstack Software Engineer (React.JS + Kotlin SpringBoot);
+- 📈 Specialist in data-driven apps;
 
 ✒ A story has no beginning or end, only entrance doors. 火 ◉
 <> Every hero has a code. </>
