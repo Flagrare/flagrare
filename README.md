@@ -1,7 +1,16 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64cd1c230d755ccbebdaf969?variant=dark)](https://roadmap.sh)
 
-### Hi there 👋
+### Howdy, I am Flagrare 🔥
 
+Nothing connects us more than stories. Here is mine.
+
+- 🎮 Working on knowledge to be a Game Developer
+- 🖥️ Fullstack Software Engineer (React.JS + Kotlin SpringBoot)
+- 📚 Writing and forging new worlds is part of my soul. 
+
+
+✒ A story has no beginning or end, only entrance doors. 火 ◉
+<> Every hero has a code. </>
 <!--
 **Flagrare/flagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
