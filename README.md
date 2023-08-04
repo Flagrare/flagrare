@@ -11,7 +11,7 @@ Nothing connects us more than stories. Here is mine.
 
 <> Every hero has a code. </>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64cd1c230d755ccbebdaf969?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64cd1c230d755ccbebdaf969?variant=dark&roadmaps=cpp)](https://roadmap.sh)
 <!--
 **Flagrare/flagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
