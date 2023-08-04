@@ -10,6 +10,7 @@ Nothing connects us more than stories. Here is mine.
 - 📈 Specialist in data-driven apps;
 
 ✒ A story has no beginning or end, only entrance doors. 火 ◉
+
 <> Every hero has a code. </>
 <!--
 **Flagrare/flagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
