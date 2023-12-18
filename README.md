@@ -2,8 +2,8 @@
 
 Nothing connects us more than stories. Here is mine.
 
-- 🎮 Working on knowledge to be a Game Developer;
-- 📚 Writing and forging new worlds is part of my soul; 
+- 🎮 Game Developer;
+- 📚 Writer and Narrative designer, forging new worlds is part of my soul; 
 - 🖥️ Fullstack Software Engineer (React.JS + Kotlin SpringBoot);
 - 📈 Specialist in data-driven apps;
 
