@@ -13,9 +13,8 @@ Nothing connects us more than stories. Here is mine.
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64d7f7c3aa497d7fa52cb2c8?variant=dark&roadmaps=cpp%2Cgame-developer%2Cserver-side-game-developer%2Ctechnical-writer)](https://roadmap.sh)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flagrare&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FF0000&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flagrare&hide_title=true&show_icons=true&nclude_all_commits=true&count_private=true&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FF0000&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flagrare&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FF0000&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
 **Flagrare/flagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
