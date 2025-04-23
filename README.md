@@ -11,7 +11,7 @@ Nothing connects us more than stories. Here is mine.
 
 <> Every hero has a code. </>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64d7f7c3aa497d7fa52cb2c8?variant=dark&roadmaps=cpp%2Cgame-developer%2Cserver-side-game-developer%2Ctechnical-writer)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/64d7f7c3aa497d7fa52cb2c8?variant=dark&roadmaps=679902ba1ee9a7b2d0a6ba44%2C680979ca85af3470eb7c6405%2Ccpp%2Cgame-developer)](https://roadmap.sh)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flagrare&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FF0000&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
