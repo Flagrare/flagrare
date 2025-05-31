@@ -25,12 +25,12 @@ Nothing connects us more than stories. Here’s mine:
 [![Leetcode Stats](
 https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono&ext=activity)](
 https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono&ext=activity)
-
+<!--
 ## GitHub summary
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flagrare&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FF0000&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **Flagrare/flagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
