@@ -2,13 +2,13 @@ Howdy, I’m Flagrare 🔥
 
 Nothing connects us more than stories. Here’s mine:
 
+- 🖥️ Fullstack Engineer: React, Svelte, Kotlin. I craft scalable, data-driven systems.
+
+- ☁️ AWS experience: from S3 to RDS, integrating real-time and secure infrastructure.
+
 - 🎮 Game Developer (in progress): building player-first experiences that blend code and narrative.
 
 - 📚 Writer & Narrative Designer: passionate about designing meaning through mechanics, worldbuilding, and character.
-
-- 🖥️ Fullstack Engineer: React, Svelte, Kotlin, Ruby, Rails. I craft scalable, data-driven systems.
-
-- ☁️ AWS experience: from S3 to RDS, integrating real-time and secure infrastructure.
 
 - ✍️ Always learning, always making—whether through code, stories, or game systems.
 
