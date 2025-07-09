@@ -21,10 +21,7 @@ Nothing connects us more than stories. Here’s mine:
 [![roadmap.sh](https://roadmap.sh/card/wide/64d7f7c3aa497d7fa52cb2c8?variant=dark&roadmaps=cpp%2Cgame-developer%2C679902ba1ee9a7b2d0a6ba44%2C680979ca85af3470eb7c6405)](https://roadmap.sh)
 
 ## LeetCode Stats
-
-[[![Leetcode Stats](
-https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono&ext=contest)](
-https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono)](https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono)
 <!--
 ## GitHub summary
 
