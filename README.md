@@ -22,9 +22,9 @@ Nothing connects us more than stories. Here’s mine:
 
 ## LeetCode Stats
 
-[![Leetcode Stats](
-https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono&ext=activity)](
-https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono&ext=activity)
+[[![Leetcode Stats](
+https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono&ext=contest)](
+https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono)
 <!--
 ## GitHub summary
 
