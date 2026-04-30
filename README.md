@@ -2,9 +2,12 @@
 
 Stories are how I process the world. Software is one of the ways I give them structure.
 
-I’m a software engineer and narrative designer building tools, systems, and experiments for people who live by stories. I care about writer-facing design, interactive fiction, memory, consequence, and the strange machinery that helps stories persist. 
+I’m a software engineer and narrative designer building tools, systems, and experiments for people who live by stories. 
+The work I care about lives where story and software stop pretending to be separate things.
 
-My background spans full-stack across EdTech, FinTech, Fitness Tech, HealthTech, analytics, and real-time systems. Lately, I’ve been most interested in the place where code and narrative stop pretending to be separate disciplines, and the machinery beneath story: **state, consequence, and the tools that help stories persist and respond**.
+My background spans full-stack across EdTech, FinTech, Fitness Tech, HealthTech, analytics, and real-time systems. 
+
+Lately, I have been interested in writer-facing design, interactive fiction and machinery beneath story: **state, consequence, and the tools that help stories persist and respond**.
 
 I have also worked on a coupled of games and helped out studios and cool startups from the Narrative side.
 
