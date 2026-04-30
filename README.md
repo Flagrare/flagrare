@@ -12,12 +12,11 @@ My background spans full-stack and backend work across EdTech, HealthTech, analy
 - **[resumancer](https://resumancer.com)** — a reflective portfolio and continuity product for developers, indie makers, and other creative-technical people.
 - **[tardigrade-db](https://github.com/Eldriss-Studio/tardigrade-db)** — an experiment in durable memory structures for LLM-driven systems.
 
-## A few other things
+## A public repo I’m genuinely proud of
 
-- **[closure-capital-gains](https://github.com/Flagrare/closure-capital-gains)** — a capital gains tax calculator built with Hexagonal Architecture, functional design, and tests.
 - **[swizard](https://github.com/Flagrare/swizard)** — a native macOS app for installing Nintendo Switch games via USB when MTP fails.
-- **[soundtube](https://github.com/Flagrare/soundtube)** — a Chrome extension that converts YouTube subtitles into IPA for pronunciation learning.
-- **[knogler-engine](https://github.com/Flagrare/knogler-engine)** — a barebones C++ and Vulkan engine focused on clean minimal architecture and game programming fundamentals.
+
+A lot of the work I care most about right now lives in products, prototypes, and half-wild experiments rather than neatly polished public repositories. I’m trying to change that without turning the whole thing into theatre.
 
 ## Things I keep circling back to
 
