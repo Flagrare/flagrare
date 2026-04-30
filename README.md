@@ -10,9 +10,10 @@ I have also worked on a coupled of games and helped out studios and cool startup
 
 ## What I’m building
 
-- **[wordbound](https://wordbound.app)** — a portfolio and discovery platform for writers and narrative designers, built around the craft artifacts generic portfolio tools usually flatten.
-- **[resumancer](https://resumancer.com)** — a reflective portfolio and continuity product for developers, indie makers, and other creative-technical people.
-- **[tardigrade-db](https://github.com/Eldriss-Studio/tardigrade-db)** — an experiment in durable memory structures for LLM-driven systems.
+- **[wordbound](https://wordbound.app)** — a portfolio, job boar, and discovery platform for writers, narrative designers, and storytellers, built around the craft of specific writing artifacts that actually showcase the writer's work instead of the generic portfolio tools that usually flatten.
+- **[resumancer](https://resumancer.com)** — a reflective journal, resume and continuity product for engineers, developers, indie makers, and other creative-technical people.
+- **[tardigrade-db](https://github.com/Eldriss-Studio/tardigrade-db)** — an experiment in durable memory structures for LLM-driven systems leveraging their internal states/tensors rather than text.
+
 A lot of the work I care most about right now lives in products, prototypes, and half-wild experiments rather than neatly polished public repositories. I’m trying to change that without turning the whole thing into theatre.
 
 ## Elsewhere
