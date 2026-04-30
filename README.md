@@ -1,43 +1,34 @@
-Howdy, I’m Flagrare 🔥
+# Yuri “Flagrare” Guimarães
 
-Nothing connects us more than stories. Here’s mine:
+**Story systems designer, narrative designer, and software engineer.**
 
-- 🖥️ Fullstack Engineer: React, Svelte, Kotlin. I craft scalable, data-driven systems.
+I work at the seam between **narrative design** and **technical architecture**: writer-facing tools, interactive fiction, AI memory and continuity systems, and product experiences where structure shapes meaning.
 
-- ☁️ AWS experience: from S3 to RDS, integrating real-time and secure infrastructure.
+My software background spans full-stack and backend work across EdTech, HealthTech, analytics, and real-time systems. Lately, I’ve been most interested in the machinery beneath story: **memory, state, consequence, and the tools that help stories persist and respond**.
 
-- 🎮 Game Developer (in progress): building player-first experiences that blend code and narrative.
+## What I’m building
 
-- 📚 Writer & Narrative Designer: passionate about designing meaning through mechanics, worldbuilding, and character.
+- **[wordbound](https://wordbound.app)** — a portfolio and discovery platform for writers and narrative designers, built around the kinds of craft artifacts generic portfolio tools usually flatten.
+- **[resumancer](https://resumancer.com)** — a reflective portfolio and continuity product for developers, indie makers, and other creative-technical people.
+- **[tardigrade-db](https://github.com/Eldriss-Studio/tardigrade-db)** — an experimental project exploring durable memory structures for LLM-driven systems.
 
-- ✍️ Always learning, always making—whether through code, stories, or game systems.
+## Selected work
 
-> “Stories have no beginning and no end, only doors through which one may enter them.” 火 ◉
+- **[closure-capital-gains](https://github.com/Flagrare/closure-capital-gains)** — capital gains tax calculator built with Hexagonal Architecture, functional design, and tests.
+- **[swizard](https://github.com/Flagrare/swizard)** — native macOS app for installing Nintendo Switch games via USB when MTP fails.
+- **[soundtube](https://github.com/Flagrare/soundtube)** — Chrome extension that converts YouTube subtitles into IPA for pronunciation learning.
+- **[knogler-engine](https://github.com/Flagrare/knogler-engine)** — barebones C++ and Vulkan engine focused on game programming fundamentals and clean minimal architecture.
 
-> <> Every hero has a code. </>
+## Interests
 
-## Roadmap.sh learning path
+- Narrative systems and interactive fiction
+- Writer-facing tools and portfolio systems
+- AI memory, continuity, and character simulation
+- Worldbuilding and mechanically meaningful storytelling
+- Creative tooling at the systems/story seam
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64d7f7c3aa497d7fa52cb2c8?variant=dark&roadmaps=cpp%2Cgame-developer%2C679902ba1ee9a7b2d0a6ba44%2C680979ca85af3470eb7c6405)](https://roadmap.sh)
+## Elsewhere
 
-## LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono)](https://leetcard.jacoblin.cool/Flagrare?theme=dark&font=JetBrains%20Mono)
-<!--
-## GitHub summary
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flagrare&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FF0000&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-
-**Flagrare/flagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Website:** [flagrare.com.br](https://flagrare.com.br)
+- **LinkedIn:** [linkedin.com/in/flagrare](https://www.linkedin.com/in/flagrare)
+- **Substack:** [The Ignition Blueprint](https://theignitionblueprint.substack.com)
