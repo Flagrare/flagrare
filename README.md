@@ -1,33 +1,25 @@
-# Yuri “Flagrare” Guimarães
+# Yuri Flagrare
 
 Stories are how I process the world. Software is one of the ways I give them structure.
 
-I’m a software engineer and narrative designer building tools, systems, and experiments for people who live by stories. I care about writer-facing design, interactive fiction, memory, consequence, and the strange machinery that helps stories persist.
+I’m a software engineer and narrative designer building tools, systems, and experiments for people who live by stories. I care about writer-facing design, interactive fiction, memory, consequence, and the strange machinery that helps stories persist. 
 
-My background spans full-stack and backend work across EdTech, HealthTech, analytics, and real-time systems. Lately, I’ve been most interested in the place where code and story stop pretending to be separate disciplines.
+My background spans full-stack and backend work across EdTech, FinTech, Fitness Tech, HealthTech, analytics, and real-time systems. Lately, I’ve been most interested in the place where code and narrative stop pretending to be separate disciplines, and the machinery beneath story: **state, consequence, and the tools that help stories persist and respond**.
 
 ## What I’m building
 
 - **[wordbound](https://wordbound.app)** — a portfolio and discovery platform for writers and narrative designers, built around the craft artifacts generic portfolio tools usually flatten.
 - **[resumancer](https://resumancer.com)** — a reflective portfolio and continuity product for developers, indie makers, and other creative-technical people.
 - **[tardigrade-db](https://github.com/Eldriss-Studio/tardigrade-db)** — an experiment in durable memory structures for LLM-driven systems.
-
-## A public repo I’m genuinely proud of
-
-- **[swizard](https://github.com/Flagrare/swizard)** — a native macOS app for installing Nintendo Switch games via USB when MTP fails.
-
 A lot of the work I care most about right now lives in products, prototypes, and half-wild experiments rather than neatly polished public repositories. I’m trying to change that without turning the whole thing into theatre.
-
-## Things I keep circling back to
-
-- Narrative systems and interactive fiction
-- Writer-facing tools and portfolio systems
-- AI memory, continuity, and character simulation
-- Worldbuilding and mechanically meaningful storytelling
-- Creative tooling at the seam of story and software
 
 ## Elsewhere
 
 - **Website:** [flagrare.com.br](https://flagrare.com.br)
 - **Writing:** [The Ignition Blueprint](https://theignitionblueprint.substack.com)
 - **LinkedIn:** [linkedin.com/in/flagrare](https://www.linkedin.com/in/flagrare)
+
+
+## Other stuff I am doing
+
+- **[swizard](https://github.com/Flagrare/swizard)** — a native macOS app for installing Nintendo Switch games via USB when MTP fails.
