@@ -17,8 +17,8 @@ A lot of the work I care most about right now lives in products, prototypes, and
 
 ## Elsewhere
 
-- **Website:** [flagrare.com.br](https://flagrare.com.br)
-- **Writing:** [The Ignition Blueprint](https://theignitionblueprint.substack.com)
+- **Stories:** [flagrare.com.br](https://flagrare.com.br)
+- **Storyteller-journey and Game Dev lessons:** [The Ignition Blueprint](https://theignitionblueprint.substack.com)
 - **LinkedIn:** [linkedin.com/in/flagrare](https://www.linkedin.com/in/flagrare)
 
 
