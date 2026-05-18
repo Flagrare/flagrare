@@ -13,10 +13,11 @@ I have also worked on a coupled of games and helped out studios and cool startup
 
 ## What I’m building
 
-- **[wordbound](https://wordbound.app)** — a portfolio, job board, and discovery platform for writers, narrative designers, and storytellers, built around the craft of specific writing artifacts that actually showcase the writer's work instead of the generic portfolio tools that usually flatten.
-- **[resumancer](https://resumancer.com)** — a reflective journal, resume and continuity product for engineers, developers, indie makers, and other creative-technical people.
-- **[tardigrade-db](https://github.com/Eldriss-Studio/tardigrade-db)** — an experiment in durable memory structures for LLM-driven systems leveraging their internal states/tensors rather than text.
-- **[poltergink](https://github.com/Eldriss-Studio/poltergink)** — an LLM-native TypeScript wrapper around inkjs that makes Ink narratives two-sided: an LLM holds a persona and is forced to pick from the author-defined choices, no freeform generation.
+- **[wordbound](https://wordbound.app)** ![closed beta](https://img.shields.io/badge/-closed_beta-7C3AED?style=flat-square) — a portfolio, job board, and discovery platform for writers, narrative designers, and storytellers, built around the craft of specific writing artifacts that actually showcase the writer’s work instead of the generic portfolio tools that usually flatten.
+- **[resumancer CLI](https://www.npmjs.com/package/@resumancer/cli)** ![live](https://img.shields.io/badge/-live-16A34A?style=flat-square) — a reflective journal, resume and continuity product for engineers, developers, indie makers, and other creative-technical people. Published and available now.
+- **[resumancer web](https://resumancer.com)** ![closed alpha](https://img.shields.io/badge/-closed_alpha-B91C1C?style=flat-square) — the web companion to the CLI, bringing the same journaling model to a browser-based interface.
+- **[tardigrade-db](https://github.com/Eldriss-Studio/tardigrade-db)** ![open beta](https://img.shields.io/badge/-open_beta-2563EB?style=flat-square) — an experiment in durable memory structures for LLM-driven systems leveraging their internal states/tensors rather than text.
+- **[poltergink](https://github.com/Eldriss-Studio/poltergink)** ![pre-alpha](https://img.shields.io/badge/-pre--alpha-EA580C?style=flat-square) — an LLM-native TypeScript wrapper around inkjs that makes Ink narratives two-sided: an LLM holds a persona and is forced to pick from the author-defined choices, no freeform generation.
 
 A lot of the work I care most about right now lives in products, prototypes, and half-wild experiments rather than neatly polished public repositories. I’m trying to change that without turning the whole thing into theatre.
 
