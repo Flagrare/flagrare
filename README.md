@@ -28,6 +28,15 @@ A lot of the work I care most about right now lives in products, prototypes, and
 - **LinkedIn:** [linkedin.com/in/flagrare](https://www.linkedin.com/in/flagrare)
 
 
-## Other stuff I am doing
+## Open source
 
-- **[swizard](https://github.com/Flagrare/swizard)** — a native macOS app for installing Nintendo Switch games via USB when MTP fails.
+Claude Code tools I maintain:
+
+- **[agent-skills](https://github.com/Flagrare/agent-skills)** — skills that wrap your full dev cycle in Claude Code: ticket-to-plan, ATDD, six-axis code review, Figma pixel-matching, doc-drift audits, PR writing, and patch-note changelogs. One install command.
+- **[claude-statusline](https://github.com/Flagrare/claude-statusline)** — replaces Claude Code's default status bar with rate limits, context window progress, git state, and thinking level. Multiple icon modes and toggle commands, no config required.
+- **[llm-tutor](https://github.com/Flagrare/llm-tutor)** — a Socratic tutor plugin. No answers until you've tried; hints in layers; XP and cycles that make help-seeking expensive and independent discovery cheap. *(alpha)*
+
+One-offs:
+
+- **[swizard](https://github.com/Flagrare/swizard)** — native macOS app for installing Switch games via USB. Three transport modes; works on Apple Silicon + macOS Tahoe where MTP breaks.
+- **[artemis-2-orbital-timelapse](https://github.com/Flagrare/artemis-2-orbital-timelapse)** — cinematic timelapse from every Artemis 2 crew photograph, sequenced by EXIF capture time rather than file modification time.
